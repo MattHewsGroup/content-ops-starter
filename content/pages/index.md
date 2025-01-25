@@ -2,32 +2,6 @@
 title: Home
 slug: /
 sections:
-  - title:
-      text: Empowering SMBs with AI-Automation
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >+
-
-      At Matt Hews, we specialize in helping small-to-medium-sized businesses
-      unlock their potential with AI and automation. Our expert guidance ensures
-      you achieve measurable results without the enterprise-level price tag.
-
-    actions: []
-    media:
-      altText: Dope design preview
-      type: ImageBlock
-      url: /images/4905827.jpg
-    badge:
-      label: AI and Automation Experts
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Why Choose Matt Hews?
@@ -144,6 +118,32 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Empowering SMBs with AI-Automation
+      color: text-dark
+      type: TitleBlock
+    subtitle: Be in good company
+    text: >+
+
+      At Matt Hews, we specialize in helping small-to-medium-sized businesses
+      unlock their potential with AI and automation. Our expert guidance ensures
+      you achieve measurable results without the enterprise-level price tag.
+
+    actions: []
+    media:
+      altText: Dope design preview
+      type: ImageBlock
+      url: /images/4905827.jpg
+    badge:
+      label: AI and Automation Experts
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
   - title:
       text: Get in Touch with Matt Hews
       color: text-dark
