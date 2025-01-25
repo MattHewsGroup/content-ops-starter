@@ -79,7 +79,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Save Time and Reduce Costs
-        subtitle: Numbers Done
+        subtitle: 30%+ Efficiency Gains
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
