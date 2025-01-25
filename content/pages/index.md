@@ -196,7 +196,7 @@ sections:
 
     actions: []
     media:
-      url: /images/icon2.svg
+      url: /images/abstract-background.svg
       altText: Dope design preview
       type: ImageBlock
     badge:
