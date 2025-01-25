@@ -196,8 +196,6 @@ sections:
 
     actions: []
     media:
-      url: >-
-        /images/technology-human-touch-background-modern-remake-creation-adam.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
