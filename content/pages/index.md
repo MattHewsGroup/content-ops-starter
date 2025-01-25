@@ -209,7 +209,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Empowering SMBs Across Industries
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
