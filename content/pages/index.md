@@ -196,7 +196,7 @@ sections:
 
     actions: []
     media:
-      url: /images/logo-white.svg
+      url: /images/animation_sync_Contrast_fegnb6xim (1).gif
       altText: Dope design preview
       type: ImageBlock
     badge:
