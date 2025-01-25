@@ -246,11 +246,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      At *Matt Hews*, we empower small-to-medium-sized businesses to scale
+      effectively by integrating AI and automation into their daily operations.
+      From process automation to predictive analytics, our services are designed
+      to save time, reduce costs, and unlock new opportunities for growth.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
