@@ -184,7 +184,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Empowering SMBs with AI and Automation
+      text: Empowering SMBs with AI-Automation
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
