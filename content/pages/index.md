@@ -31,7 +31,9 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: >-
+            Let us know how we can assist you (e.g., AI strategy, automation,
+            analytics)
           width: full
           type: TextareaFormControl
       elementId: contact-form
