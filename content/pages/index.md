@@ -78,7 +78,7 @@ sections:
     subtitle: Discover the impact of AI and automation on your business.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Save Time and Reduce Costs
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
