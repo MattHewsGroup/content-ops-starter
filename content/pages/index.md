@@ -7,11 +7,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      At Matt Hews, we specialize in empowering small-to-medium-sized businesses
+      through AI and automation. Whether you're looking to streamline
+      operations, enhance customer engagement, or make data-driven decisions,
+      we're here to help. Fill out the form, and our team will reach out to
+      discuss your needs and how we can deliver tailored solutions for your
+      business.
+
     media:
       fields:
         - name: name
