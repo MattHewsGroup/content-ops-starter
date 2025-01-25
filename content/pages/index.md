@@ -69,7 +69,7 @@ sections:
     type: GenericSection
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: dfd
       color: text-dark
       styles:
         self:
