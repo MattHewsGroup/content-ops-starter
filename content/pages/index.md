@@ -69,7 +69,7 @@ sections:
     type: GenericSection
   - type: FeaturedItemsSection
     title:
-      text: dfd
+      text: Why Choose MattHews?
       color: text-dark
       styles:
         self:
