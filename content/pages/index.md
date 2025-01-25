@@ -106,7 +106,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Actionable Insights from Data
-        subtitle: The Job Stuff
+        subtitle: Better Forecasting by 25%
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
