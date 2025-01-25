@@ -184,7 +184,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Business Consulting
+      text: Empowering SMBs with AI and Automation
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
