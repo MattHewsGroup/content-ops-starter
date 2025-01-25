@@ -154,7 +154,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Schedule Your Free Consultation
         altText: ''
         url: /
         showIcon: false
