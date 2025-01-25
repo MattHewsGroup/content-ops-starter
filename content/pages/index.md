@@ -188,9 +188,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+
+      At Matt Hews, we specialize in helping small-to-medium-sized businesses
+      unlock their potential with AI and automation. Our expert guidance ensures
+      you achieve measurable results without the enterprise-level price tag.
+
     actions:
       - label: Get started
         url: /
