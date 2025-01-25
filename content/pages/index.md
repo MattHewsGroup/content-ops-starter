@@ -131,7 +131,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Enhance Customer Experience
-        subtitle: Faster
+        subtitle: 20% Higher Customer Retention
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
