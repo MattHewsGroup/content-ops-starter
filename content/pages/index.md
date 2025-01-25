@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: Get in Touch with Matt    Hews
+      text: Get in Touch with Matt Hews
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
