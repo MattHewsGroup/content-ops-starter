@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: Generic Section With MattHews
+      text: Get in Touch with MattHews
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
