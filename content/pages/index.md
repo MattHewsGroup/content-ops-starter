@@ -80,10 +80,9 @@ sections:
       - type: FeaturedItem
         title: Save Time and Reduce Costs
         subtitle: 30%+ Efficiency Gains
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We streamline your operations with AI-powered automation, saving you
+          hours each week and significantly reducing costs.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
