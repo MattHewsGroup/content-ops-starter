@@ -75,7 +75,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Discover the impact of AI and automation on your business.
     items:
       - type: FeaturedItem
         title: 500k
