@@ -194,13 +194,7 @@ sections:
       unlock their potential with AI and automation. Our expert guidance ensures
       you achieve measurable results without the enterprise-level price tag.
 
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       url: /images/hero3.svg
       altText: Dope design preview
