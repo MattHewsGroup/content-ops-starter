@@ -204,7 +204,7 @@ sections:
       label: AI and Automation Experts
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
