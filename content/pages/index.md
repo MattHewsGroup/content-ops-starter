@@ -2,71 +2,6 @@
 title: Home
 slug: /
 sections:
-  - title:
-      text: Get in Touch with Matt Hews
-      color: text-dark
-      type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: >+
-
-      At Matt Hews, we specialize in empowering small-to-medium-sized businesses
-      through AI and automation. Whether you're looking to streamline
-      operations, enhance customer engagement, or make data-driven decisions,
-      we're here to help. Fill out the form, and our team will reach out to
-      discuss your needs and how we can deliver tailored solutions for your
-      business.
-
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: >-
-            Let us know how we can assist you (e.g., AI strategy, automation,
-            analytics)
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Send Message
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Why Choose Matt Hews?
@@ -183,6 +118,71 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Get in Touch with Matt Hews
+      color: text-dark
+      type: TitleBlock
+    subtitle: Section with a form subtitle
+    text: >+
+
+      At Matt Hews, we specialize in empowering small-to-medium-sized businesses
+      through AI and automation. Whether you're looking to streamline
+      operations, enhance customer engagement, or make data-driven decisions,
+      we're here to help. Fill out the form, and our team will reach out to
+      discuss your needs and how we can deliver tailored solutions for your
+      business.
+
+    media:
+      fields:
+        - name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+          type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+          type: EmailFormControl
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: >-
+            Let us know how we can assist you (e.g., AI strategy, automation,
+            analytics)
+          width: full
+          type: TextareaFormControl
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: FormBlock
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Send Message
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: null
+    badge:
+      label: Contact Us
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    type: GenericSection
   - title:
       text: Empowering SMBs with AI-Automation
       color: text-dark
