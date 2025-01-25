@@ -198,6 +198,8 @@ sections:
     media:
       altText: Dope design preview
       type: ImageBlock
+      url: >-
+        /images/technology-human-touch-background-modern-remake-creation-adam.jpg
     badge:
       label: AI and Automation Experts
       color: text-primary
