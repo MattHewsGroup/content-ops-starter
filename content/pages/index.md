@@ -247,7 +247,7 @@ sections:
       type: TitleBlock
     subtitle: This is a subtitle
     text: >
-      At ***Matt Hews***, we empower small-to-medium-sized businesses to scale
+      At **Matt Hews**, we empower small-to-medium-sized businesses to scale
       effectively by integrating AI and automation into their daily operations.
       From process automation to predictive analytics, our services are designed
       to save time, reduce costs, and unlock new opportunities for growth.
