@@ -132,10 +132,10 @@ sections:
         type: FeaturedItem
       - title: Enhance Customer Experience
         subtitle: 20% Higher Customer Retention
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Implement AI-driven tools like chatbots and CRM enhancements to keep
+          your customers engaged and satisfied.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
